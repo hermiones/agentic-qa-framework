@@ -1,0 +1,4 @@
+[
+  {"username": "qa_viewer", "password": "demo-viewer-pass", "role": "viewer", "display_name": "QA Viewer"},
+  {"username": "qa_admin", "password": "demo-admin-pass", "role": "admin", "display_name": "QA Admin"}
+]

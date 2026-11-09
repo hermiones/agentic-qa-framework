@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.auth/
+reports/
+test-results/
+.pytest_cache/
+.DS_Store

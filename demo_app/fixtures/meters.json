@@ -1,0 +1,10 @@
+[
+  {"id": "MTR-1001", "location": "Kolkata North", "status": "online", "readings": [12.5, 13.1, 12.9, 14.0]},
+  {"id": "MTR-1002", "location": "Kolkata South", "status": "online", "readings": [8.2, 7.9, 8.4]},
+  {"id": "MTR-1003", "location": "Howrah", "status": "offline", "readings": [5.0, 0.0]},
+  {"id": "MTR-1004", "location": "Salt Lake", "status": "online", "readings": [20.1, 19.8, 21.3, 20.6]},
+  {"id": "MTR-1005", "location": "New Town", "status": "maintenance", "readings": [11.0, 10.5]},
+  {"id": "MTR-1006", "location": "Durgapur", "status": "online", "readings": [9.9, 10.2, 10.0]},
+  {"id": "MTR-1007", "location": "Asansol", "status": "offline", "readings": [3.3]},
+  {"id": "MTR-1008", "location": "Siliguri", "status": "online", "readings": [15.4, 15.0, 16.2]}
+]

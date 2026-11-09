@@ -1,0 +1,17 @@
+# The requirement tracker, simplified. Tests reference these ids with @pytest.mark.req("REQ-xxx").
+requirements:
+  - {id: REQ-001, title: "Login requires a valid server-side CAPTCHA"}
+  - {id: REQ-002, title: "Protected pages redirect anonymous users to login"}
+  - {id: REQ-003, title: "Authenticated users land on their dashboard"}
+  - {id: REQ-010, title: "Meter list shows all provisioned meters"}
+  - {id: REQ-011, title: "Meters can be searched by id or location"}
+  - {id: REQ-012, title: "Meters can be filtered by status"}
+  - {id: REQ-013, title: "Meter total equals the sum of its readings"}
+  - {id: REQ-014, title: "Dashboard total/offline KPIs are accurate"}
+  - {id: REQ-015, title: "Dashboard online KPI counts only online meters"}
+  - {id: REQ-020, title: "Admin consumption report total is accurate"}
+  - {id: REQ-021, title: "Reports are restricted to admins"}
+  - {id: REQ-022, title: "Consumption report can be exported as CSV"}
+  - {id: REQ-023, title: "Billing service health is reported"}
+  - {id: REQ-030, title: "Report downloads are written to the audit log"}
+  - {id: REQ-031, title: "Users can reset a forgotten password"}
